@@ -1,0 +1,14 @@
+{
+  "name": "rwp",
+  "version": "1.0.0",
+  "description": "responsive portfolio website ilie",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "ilie",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
